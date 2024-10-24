@@ -15,10 +15,9 @@ The protocol is implemented in Rust. Prerequisites for running it are up-to-date
 A Makefile is present, which gives access to the following commands:
  - 'make clean': delete all compilation products.
  - 'make build', 'make run': build or run the source code using 'src/main.rs' as starting point.
- - 'make demo_{name}': run the source code using a demo file as starting point.
-  -> available demo files: demo_zp, demo_p256_no_tag, demo_p256_tag.
+ - 'make demo_{name}': run the source code using a demo file as starting point. Available demo files: demo_zp, demo_p256_no_tag, demo_p256_tag.
  - 'make bench_p256': run the benchmarking process.
 
 ## Data and Visualization
 
-The data files used to generate the graph presented in the article are available at '6.2-performance/data/'. The graphs are generated via the 'roadpricing.ipnyb' notebook. This requires Jupyter Notebook and Python to run.
+The data files used to generate the graph presented in the article are available at '6.2-performance/data/'. The graphs are generated via the 'roadpricing.ipynb' notebook. This requires Jupyter Notebook and Python to run.
