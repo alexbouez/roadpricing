@@ -28,8 +28,7 @@ plt.rcParams['figure.figsize'] = (10.0, 8.0)
 plt.style.use('ggplot')
 
 plt.rcParams['text.usetex'] = True  # Enable LaTeX rendering
-plt.rcParams['font.family'] = 'sans-serif'
-plt.rcParams['font.sans-serif'] = ['Arial']
+plt.rcParams["font.family"] = "DejaVu Sans"
 
 plt.rcParams['text.color'] = '#000000'
 plt.rcParams['axes.labelcolor'] = '#000000'
