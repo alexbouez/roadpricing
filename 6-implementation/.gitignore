@@ -1,0 +1,7 @@
+# Compilation artifacts
+target/
+*.lock
+__pycache__
+
+# Results
+out/

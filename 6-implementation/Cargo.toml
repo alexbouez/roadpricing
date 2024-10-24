@@ -1,0 +1,27 @@
+[package]
+name = "roadpricing"
+version = "0.1.0"
+edition = "2021"
+default-run="main"
+
+[[bin]]
+name = "main"
+path = "src/main.rs"
+
+[dependencies]
+hex = "0.4"
+csv = "1.1"
+sha3 = "0.10"
+sha2 = "0.10"
+aes-gcm = "0.10"
+k256 = "0.11"
+rand = "0.8.5"
+rayon = "1.5"
+core_affinity = "0.8"
+num-traits = "0.2"
+lazy_static = "1.5"
+arithmetic = "2.1"
+
+[dependencies.num-bigint]
+version = "0.4.6"
+features = ["rand"]
