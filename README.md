@@ -1,6 +1,6 @@
 # Roadpricing
 
-Anonymized code and data for EuroS&P 2025, submission #240:
+Anonymized code and data for AsiaCCS 2025, submission #25:
 'Mobile Cell-Based Road Pricing with Verifiable User Privacy'.
 
 ## Organization of the repository
