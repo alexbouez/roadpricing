@@ -6,8 +6,8 @@ Anonymized code and data for AsiaCCS 2025, submission #25:
 ## Organization of the repository
 
 This repository contains two directories, pertaining to different sections of the submission:
- - 6-implementation: contains the source code of the implementation and the benchmarking utilities.
- - 6.2-performance: contains the data and source code used to generate the benchmarking results graph.
+ - 5-implementation: contains the source code of the implementation and the benchmarking utilities.
+ - 5.2-performance: contains the data and source code used to generate the benchmarking results graph.
 
 ## Running the source code
 
