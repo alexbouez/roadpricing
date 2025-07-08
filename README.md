@@ -1,13 +1,12 @@
 # Roadpricing
 
-Anonymized code and data for AsiaCCS 2025, submission #25:
-'Mobile Cell-Based Road Pricing with Verifiable User Privacy'.
+Anonymized code and data for 'Mobile Cell-Based Road Pricing with Verifiable User Privacy'.
 
 ## Organization of the repository
 
 This repository contains two directories, pertaining to different sections of the submission:
  - 5-implementation: contains the source code of the implementation and the benchmarking utilities.
- - 5.2-performance: contains the data and source code used to generate the benchmarking results graph.
+ - 5.3-performance: contains the data and source code used to generate the benchmarking results graph.
 
 ## Running the source code
 
